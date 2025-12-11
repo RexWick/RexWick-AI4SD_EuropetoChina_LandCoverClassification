@@ -10,7 +10,7 @@ Code Implementation Github Link: https://github.com/jrterven/eurosat_classificat
 
 # File Structure
 
-All the Technical Implementation are in eurosat_classification/AISD_ResNet_Classifier.ipynb
+All the Technical Implementation are in eurosat_classification/train_eval_code/AISD_ResNet_Classifier.ipynb
 
 Answers to Assignment Requirements are in it as well.
 
